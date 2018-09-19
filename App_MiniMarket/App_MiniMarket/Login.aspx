@@ -6,7 +6,8 @@
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title>Aceso MiniMarket</title>
-    
+    <link href="Css/AdminLTE.css" />
+    <link href=""
 </head>
 <body>
     <form id="form1" runat="server">
