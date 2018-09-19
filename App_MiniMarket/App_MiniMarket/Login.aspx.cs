@@ -26,7 +26,9 @@ namespace App_MiniMarket
                 if (usuario.Equals(userNAme[i]) && contra.Equals(contraName))
                 {
                     Response.Write("<script>alert('Usuario Correcto')</script>");
+                    break;
 
+                    
                 }
                 else
                 {
